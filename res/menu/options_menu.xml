@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+    <item android:id="@+id/menu_start"  
+          android:title="开始游戏"  
+           />  
+    <item android:id="@+id/menu_dstart"  
+          android:title="双人游戏"   
+           />  
+   <item android:id="@+id/menu_int"  
+          android:title="联网对战-client"   
+           />  
+   <item android:id="@+id/menu_exit"  
+          android:title="退出" 
+           />  
+</menu>  
